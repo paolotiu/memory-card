@@ -1,0 +1,9 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+
+.gameboard{
+    margin: 10px 30px;
+    display: flex;
+}

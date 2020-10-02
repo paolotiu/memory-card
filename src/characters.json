@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.imgur.com/Axtz7Yr.png",
+        "name": "Taylor Swift",
+        "occupation": "Singer/Songwriter"
+
+    },
+    {
+        "id": 2,
+        "img": "https://i.imgur.com/Axtz7Yr.png",
+        "name": "Taylor Swift",
+        "occupation": "Singer/Songwriter"
+
+    },
+    {
+        "id": 3,
+        "img": "https://i.imgur.com/Axtz7Yr.png",
+        "name": "Taylor Swift",
+        "occupation": "Singer/Songwriter"
+
+    },
+    {
+        "id": 4,
+        "img": "https://i.imgur.com/Axtz7Yr.png",
+        "name": "Taylor Swift",
+        "occupation": "Singer/Songwriter"
+
+    },
+    {
+        "id": 5,
+        "img": "https://i.imgur.com/Axtz7Yr.png",
+        "name": "Taylor Swift",
+        "occupation": "Singer/Songwriter"
+
+    }
+]
