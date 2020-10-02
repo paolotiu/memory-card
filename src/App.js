@@ -12,15 +12,13 @@ function App() {
   if(savedScore === null){
     savedScore = 0;
   }
-  
-    console.log(savedScore)
     const [score, setScore] = useState(0)
     const [bestScore, setBestScore] = useState(savedScore)
     const [clicked, setClicked] = useState(Array(characters.length).fill(false))
 
     const checkIfClicked = (index) => {
       if(clicked[index]){
-        console.log('sad')
+
         setScore(0)
         endGame()
       }else{
@@ -36,8 +34,8 @@ function App() {
     const endGame = () => {
       if(score > bestScore){
         setBestScore(score)
+        localStorage.setItem('bestScore', JSON.stringify(bestScore))
       }
-      localStorage.setItem('bestScore', JSON.stringify(bestScore))
       resetClicked()
     }
 
