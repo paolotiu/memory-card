@@ -34,7 +34,7 @@ function App() {
     const endGame = () => {
       if(score > bestScore){
         setBestScore(score)
-        localStorage.setItem('bestScore', JSON.stringify(bestScore))
+        localStorage.setItem('bestScore', JSON.stringify(score))
       }
       resetClicked()
     }
