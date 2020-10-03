@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './css/NewCard.css'
 const NewCard = (props) => {
     const [info, setInfo] = React.useState({
         img: '',
@@ -16,7 +16,6 @@ const NewCard = (props) => {
         }else{
             value = e.target.value
         }
-         
         
         setInfo({ ...info, [input]: value })
     }
@@ -25,12 +24,12 @@ const NewCard = (props) => {
         
     }
     return (
-        <div>
-            <input type="file" name="img" onChange={handleOnChange} />
+        <div className="makeNewCard">
+            <input type="file" name="img"  onChange={handleOnChange} />
             <br />
-            <input type="text" name="name" onChange={handleOnChange} />
+            <input type="text" name="name" placeholder="Name" onChange={handleOnChange} />
             <br />
-            <input type="text" name="occupation" onChange={handleOnChange} />
+            <input type="text" name="occupation" placeholder="Occupation" onChange={handleOnChange} />
             <br />
             <button
                 type="submit"

@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './Card.css'
+import './css/Card.css'
 const Card = (props) => {
     
 
@@ -20,7 +20,7 @@ const Card = (props) => {
                 <div className="name">
                     <p>{props.character.name}</p>
                 </div>
-                <div className="desciption">
+                <div className="occupation">
                     <p>{props.character.occupation}</p>
                 </div>
                 
