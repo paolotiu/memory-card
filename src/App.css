@@ -6,4 +6,5 @@ body{
 .gameboard{
     margin: 10px 30px;
     display: flex;
+    flex-wrap: wrap;
 }

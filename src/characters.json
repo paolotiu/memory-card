@@ -1,37 +1,80 @@
 [
     {
         "id": 1,
-        "img": "https://i.imgur.com/Axtz7Yr.png",
+        "img": "https://i.imgur.com/279FaUQ.jpg",
         "name": "Taylor Swift",
         "occupation": "Singer/Songwriter"
 
     },
     {
         "id": 2,
-        "img": "https://i.imgur.com/Axtz7Yr.png",
-        "name": "Taylor Swift",
-        "occupation": "Singer/Songwriter"
+        "img": "https://i.imgur.com/ufIZBey.jpg",
+        "name": "Kanye West",
+        "occupation": "Rapper"
 
     },
     {
         "id": 3,
-        "img": "https://i.imgur.com/Axtz7Yr.png",
-        "name": "Taylor Swift",
+        "img": "https://i.imgur.com/Gb0BM8M.jpg",
+        "name": "Shawn Mendes",
         "occupation": "Singer/Songwriter"
 
     },
     {
         "id": 4,
-        "img": "https://i.imgur.com/Axtz7Yr.png",
-        "name": "Taylor Swift",
-        "occupation": "Singer/Songwriter"
+        "img": "https://i.imgur.com/5rzmZb3.jpg",
+        "name": "Zac Efron",
+        "occupation": "Actor"
 
     },
     {
         "id": 5,
-        "img": "https://i.imgur.com/Axtz7Yr.png",
-        "name": "Taylor Swift",
-        "occupation": "Singer/Songwriter"
+        "img": "https://i.imgur.com/Z3JolTO.jpg",
+        "name": "Hugh Jackman",
+        "occupation": "Actor"
 
+    },
+    {
+        "id": 6,
+        "img": "https://i.imgur.com/AnZ1Fj4.jpg",
+        "name": "Zendaya Coleman",
+        "occupation": "Actor"
+    },
+    {
+        "id": 7,
+        "img": "https://i.imgur.com/jOPFk7S.jpg",
+        "name": "Andy Samberg",
+        "occupation": "Actor"
+    },
+    {
+        "id": 8,
+        "img": "https://i.imgur.com/GHpIoDE.jpg",
+        "name": "Benedict Cumberbatch",
+        "occupation": "Actor"
+    },
+    {
+        "id": 9,
+        "img": "https://i.imgur.com/mHbBIeQ.jpg",
+        "name": "Leanardo DiCaprio",
+        "occupation": "Actor"
+    },
+    {
+        "id": 10,
+        "img": "https://i.imgur.com/6WxNFiO.jpg",
+        "name": "Ariana Grande",
+        "occupation": "Singer/Actor"
+    },
+    {
+        "id": 11,
+        "img": "https://i.imgur.com/QjJUiZC.jpg",
+        "name": "Oprah Winfrey",
+        "occupation": "TV Personality"
+    },
+    {
+        "id": 12,
+        "img": "https://i.imgur.com/cxHS3l7.jpg",
+        "name": "Billie Eilish",
+        "occupation": "Singer"
     }
+    
 ]
